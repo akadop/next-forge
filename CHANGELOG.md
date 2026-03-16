@@ -1,3 +1,25 @@
+# v6.0.1 (Mon Mar 16 2026)
+
+:tada: This release contains work from new contributors! :tada:
+
+Thanks for all your work!
+
+:heart: Kaylee ([@KayleeWilliams](https://github.com/KayleeWilliams))
+
+:heart: James Singleton ([@JamesSingleton](https://github.com/JamesSingleton))
+
+#### 🐛 Bug Fix
+
+- Add c15t addon [#728](https://github.com/vercel/next-forge/pull/728) ([@KayleeWilliams](https://github.com/KayleeWilliams))
+- chore(docs): update and rename friendlier-words.mdx to joyful.mdx [#731](https://github.com/vercel/next-forge/pull/731) ([@JamesSingleton](https://github.com/JamesSingleton))
+
+#### Authors: 2
+
+- James Singleton ([@JamesSingleton](https://github.com/JamesSingleton))
+- Kaylee ([@KayleeWilliams](https://github.com/KayleeWilliams))
+
+---
+
 # v6.0.0 (Fri Mar 13 2026)
 
 :tada: This release contains work from new contributors! :tada:
