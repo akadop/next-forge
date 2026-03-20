@@ -1,3 +1,20 @@
+# v6.0.2 (Fri Mar 20 2026)
+
+:tada: This release contains work from a new contributor! :tada:
+
+Thank you, Sam Gutentag ([@samgutentag](https://github.com/samgutentag)), for all your work!
+
+#### 🐛 Bug Fix
+
+- Feat/trunk integration [#735](https://github.com/vercel/next-forge/pull/735) ([@samgutentag](https://github.com/samgutentag) [@haydenbleasel](https://github.com/haydenbleasel))
+
+#### Authors: 2
+
+- Hayden Bleasel ([@haydenbleasel](https://github.com/haydenbleasel))
+- Sam Gutentag ([@samgutentag](https://github.com/samgutentag))
+
+---
+
 # v6.0.1 (Mon Mar 16 2026)
 
 :tada: This release contains work from new contributors! :tada:
